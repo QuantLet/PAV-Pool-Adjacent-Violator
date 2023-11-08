@@ -1,0 +1,11 @@
+Name of QuantLet : 'PAV_Example_MDS'
+
+Published in : 'PAV Courselet' 
+
+Description : 'An MDS example for car brands.'
+
+Keywords : 'PAV , Smooth'
+
+Author : 'WK Haerdle Zuo Xiaorui'
+
+Submitted : Sat, Nov 8 2023
