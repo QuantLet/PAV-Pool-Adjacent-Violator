@@ -6,6 +6,6 @@ Description : 'Several examples for better understanding PAV algorithm'
 
 Keywords : 'PAV , Smooth'
 
-Author : 'WK Haerdle ZuoXiaorui'
+Author : 'WK Haerdle Zuo Xiaorui'
 
-Submitted : Sat, Nov 4 2023
+Submitted : Sat, Nov 8 2023
