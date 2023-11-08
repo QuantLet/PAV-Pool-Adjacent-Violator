@@ -1,0 +1,11 @@
+Name of QuantLet : 'PAV_Example_Car'
+
+Published in : 'PAV Courselet' 
+
+Description : 'An example of smoothing the ranking-distance graph of cars.'
+
+Keywords : 'PAV , Smooth'
+
+Author : 'WK Haerdle Zuo Xiaorui'
+
+Submitted : Sat, Nov 8 2023
