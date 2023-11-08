@@ -1,0 +1,11 @@
+Name of QuantLet : 'PAV_Example_SVM'
+
+Published in : 'PAV Courselet' 
+
+Description : 'SVM example of isotonising SVM Classification results'
+
+Keywords : 'PAV , Smooth, SVM'
+
+Author : 'WK Haerdle Zuo Xiaorui'
+
+Submitted : Sat, Nov 8 2023
