@@ -1,0 +1,11 @@
+Name of QuantLet : 'PAV_Example_Logo'
+
+Published in : 'PAV Courselet' 
+
+Description : 'An example of calculationg PAV algorithm.'
+
+Keywords : 'PAV , Smooth'
+
+Author : 'WK Haerdle Zuo Xiaorui'
+
+Submitted : Thu, Nov 9 2023
